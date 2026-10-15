@@ -6,8 +6,6 @@ An event-driven backtester for an intraday EUR/USD strategy. Overextension is ma
 
 Summary of findings: Net of costs, the strategy has negative expectancy: -0.33R per trade over 610 trades (95% CI [-0.43, -0.22]; one-sided p ≈ 1.0 against a positive edge). Cumulative R never turned positive over the full test period.
 
-![Equity curve](results/equity_curve_R.png)
-
 ## Strategy
 
 Data: EUR/USD, 5-minute bars from Dukascopy, 2022-01-01 to 2026-07-01.
